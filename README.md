@@ -1,4 +1,4 @@
-# brain_stroke_statistics
+# Brain stroke statistics analysis
 
 This repository contains a Jupyter notebook with statistical processing of experimental results.
 
